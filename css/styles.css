@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+input{
+    background-color: palegreen;   
+}
+
+::placeholder{
+   text-align: center;
+}
+h3{
+    color: white;
+}
+
+.hidden{
+    display:none;
+}
+
+.container{
+    display:flex;
+}
+
+div{
+    justify-content: center;
+}
+
+iframe{
+    width:100%
+}
